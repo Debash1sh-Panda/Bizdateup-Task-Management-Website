@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# Task Management Website ( TaskM )
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+link to access :- https://debasish-task-management-website.vercel.app/
 
-## Available Scripts
+  TECHNOLOGY USED
+    - HTML5
+    - CSS3
+    - REACT.JS
+    - JAVASCRIPT
+    
+  FRAMEWORK USED
+    - TAILWIND-CSS
+    - DAISYUI
+    
+  VARIOUS NPMS (  npm install --- )
+    - tailwindcss
+    - postcss
+    - autoprefixer
+    - react-toastify
+    - react-router-dom
+    - react-icons
+    - react-hook-form
+    - daisyui
+    
+  VERSION CONTROL TOOL / PLATFORM
+    - git
+    - Github
+    
+  DEPLOYED IN
+    - VERCEL
 
-In the project directory, you can run:
 
-### `npm start`
+## HERE IS SOME PREVIEW (screenshots)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  -- Home Page
+    -- Route Path - https://debasish-task-management-website.vercel.app/
+    
+  ![Screenshot 2024-07-27 205405](https://github.com/user-attachments/assets/2454ed86-cefa-464e-88c8-b26753aef236)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  -- Dashboard Page 
+    -- Route Path - https://debasish-task-management-website.vercel.app/task-dashboard
 
-### `npm test`
+  ![Screenshot 2024-07-27 205432](https://github.com/user-attachments/assets/42cc97b8-58a5-4917-aee1-64c20feccfae)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  -- Create Task Page
+    -- Route Path - https://debasish-task-management-website.vercel.app/task-dashboard/create-task
 
-### `npm run build`
+  ![Screenshot 2024-07-27 205612](https://github.com/user-attachments/assets/8d94f705-452c-46fc-b831-cdeba1be109b)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  -- Add Task Successfully Notification/Toast Functionality
+    -- Route Path - https://debasish-task-management-website.vercel.app/task-dashboard/create-task 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  ![Screenshot 2024-07-27 205828](https://github.com/user-attachments/assets/2cd8b2f2-a19e-40f9-afc9-146af0b002d3)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  -- All Task Show Page
+    -- Route Path - https://debasish-task-management-website.vercel.app/task-dashboard/all-task
 
-### `npm run eject`
+  ![Screenshot 2024-07-27 205707](https://github.com/user-attachments/assets/c117e32a-ca71-4de1-9c8c-dccc4f30e842)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  -- Mark Task Done or Not Done Functionality through Notification/Toast
+    -- Route Path - https://debasish-task-management-website.vercel.app/task-dashboard/all-task
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ![Screenshot 2024-07-27 205740](https://github.com/user-attachments/assets/e4b704d5-902d-46f1-952c-0c4aefb23a2b)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  -- Remove Task Functionality through Notification/Toast
+    -- Route Path - https://debasish-task-management-website.vercel.app/task-dashboard/all-task
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  ![Screenshot 2024-07-27 205801](https://github.com/user-attachments/assets/234d228f-e865-47e6-9ade-6d21f796279a)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+  ### SHOW YOUR LOVE AND SUPPORT ❤️ 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  -- PORTFOLIO
+     https://debash1sh-panda.github.io/Deb-PortfOlio/
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  Created and Production By @DebasishPanda
