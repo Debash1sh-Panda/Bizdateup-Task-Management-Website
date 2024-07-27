@@ -2,7 +2,7 @@
 
 link to access :- https://debasish-task-management-website.vercel.app/
 
-  TECHNOLOGY USED
+    --TECHNOLOGY USED
     - HTML5
     - CSS3
     - REACT.JS
